@@ -4,6 +4,6 @@ This project provide the R codes for the paper 'Analyzing covariate clustering e
 
  - ``innerLayer-AMDD.r`` is the ADMM algorithm for the inner iteration.
 
- - ``outerLayer-EM`` is the EM algorithm for estimating the model parameters.
+ - ``outerLayer-EM.r`` is the EM algorithm for estimating the model parameters.
 
- - ``simulation-example`` shows the simulated examples in the section 4.
+ - ``simulation-example.r`` shows the simulated examples in the section 4.
