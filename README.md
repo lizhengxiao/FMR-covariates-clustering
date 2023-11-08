@@ -1,6 +1,6 @@
 # FMR-covariates-clustering
 
-This project provide the R codes for the paper 'Analyzing covariate clustering effects in healthcare cost subgroups: insights and applications for prediction'.
+This project provide the R codes for the paper 'Analyzing covariate clustering effects in healthcare cost subgroups: insights and applications for prediction'. This paper can be downloaded at https://arxiv.org/abs/2303.05793.
 
 - `innerLayer-AMDD.r` is the ADMM algorithm for the inner iteration.
 
@@ -23,3 +23,5 @@ This project provide the R codes for the paper 'Analyzing covariate clustering e
 ![](README_md_files/0ebc7de0-7e0e-11ee-984d-ffcfba59542a.jpeg?v=1&type=image)
 
 ![](README_md_files/11e7f440-7e0e-11ee-984d-ffcfba59542a.jpeg?v=1&type=image)
+
+
